@@ -1,5 +1,3 @@
-# QuickStar
+# QuickClaim
 
-best plugin ever
-
-it deserves a star
+for mudae
